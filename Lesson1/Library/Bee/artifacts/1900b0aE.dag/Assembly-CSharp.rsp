@@ -361,6 +361,8 @@
 -analyzer:"D:/App/2022.3.5f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/Controllers/LighSwitch/LightSwitch.cs"
 "Assets/Scripts/Controllers/Player/SC_FPSController.cs"
+"Assets/Scripts/GUI/Menu/MainMenu.cs"
+"Assets/Scripts/GUI/Menu/PauseGame.cs"
 "Assets/Scripts/GUI/Text/Visible.cs"
 -langversion:9.0
 
