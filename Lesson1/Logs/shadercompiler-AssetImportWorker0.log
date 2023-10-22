@@ -1,4 +1,4 @@
-Base path: 'D:/App/2022.3.5f1/Editor/Data', plugins path 'D:/App/2022.3.5f1/Editor/Data/PlaybackEngines'
+Base path: 'D:/Bài Lab 2023-2024/Game nâng cao/2022.3.5f1/Editor/Data', plugins path 'D:/Bài Lab 2023-2024/Game nâng cao/2022.3.5f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
 
 Unhandled exception: Protocol error - failed to read magic number (error -2147483644, transferred 0/4)
