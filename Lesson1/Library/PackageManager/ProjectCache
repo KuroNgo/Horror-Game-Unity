@@ -1,33 +1,114 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: D:/Product/major/2023-2024/Game Advanced/Horror-Game-Unity/Lesson1/Packages/manifest.json
+    m_FilePath: C:/Users/hoaip/Downloads/Horror-Game-Unity/Horror-Game-Unity/Lesson1/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638331622227062554
-    m_Hash: 1937588772
+      ticks: 638338121957049709
+    m_Hash: 2509373885
   m_LockFileStatus:
-    m_FilePath: D:/Product/major/2023-2024/Game Advanced/Horror-Game-Unity/Lesson1/Packages/packages-lock.json
+    m_FilePath: C:/Users/hoaip/Downloads/Horror-Game-Unity/Horror-Game-Unity/Lesson1/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638331622440125603
-    m_Hash: 3838003406
+      ticks: 638338122769555956
+    m_Hash: 3200048641
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: D:/Product/major/2023-2024/Game Advanced/Horror-Game-Unity/Lesson1/Packages
-m_EditorVersion: 2022.3.5f1 (9674261d40ee)
+m_ProjectPath: C:/Users/hoaip/Downloads/Horror-Game-Unity/Horror-Game-Unity/Lesson1/Packages
+m_EditorVersion: 2023.1.16f1 (e5ad54273a6f)
 m_ResolvedPackages:
-- packageId: com.unity.collab-proxy@2.0.5
+- packageId: com.unity.ai.navigation@1.1.4
   testable: 0
   isDirectDependency: 1
-  version: 2.0.5
+  version: 1.1.4
   source: 1
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.collab-proxy@2.0.5
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.ai.navigation@1.1.4
+  assetPath: Packages/com.unity.ai.navigation
+  name: com.unity.ai.navigation
+  displayName: AI Navigation
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: High-level NavMesh components for building and using NavMeshes at
+    runtime and at edit time.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0-exp.1
+    - 1.0.0-exp.2
+    - 1.0.0-exp.3
+    - 1.0.0-exp.4
+    - 1.1.0-pre.1
+    - 1.1.0-pre.2
+    - 1.1.1
+    - 1.1.3
+    - 1.1.4
+    - 1.1.5
+    - 2.0.0-pre.3
+    - 2.0.0-pre.4
+    - 2.0.0
+    compatible:
+    - 1.1.4
+    - 1.1.5
+    recommended: 1.1.5
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.ai
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.ai
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638224218100000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.ai.navigation@1.1/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.ai.navigation.git
+    revision: 3e8d494400ccac6cbd90ee1b474470f4b1299bfa
+    path: 
+  unityLifecycle:
+    version: 1.1.4
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Fixed\n* Published the missing API reference documentation
+    for the new properties that were made available in 1.1.0"}'
+  assetStore:
+    productId: 
+- packageId: com.unity.collab-proxy@2.1.0
+  testable: 0
+  isDirectDependency: 1
+  version: 2.1.0
+  source: 1
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.collab-proxy@2.1.0
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -115,14 +196,9 @@ m_ResolvedPackages:
     - 2.1.0
     - 2.2.0
     compatible:
-    - 2.0.5
-    - 2.0.7
-    - 2.1.0-preview.3
-    - 2.1.0-preview.5
-    - 2.1.0-preview.6
     - 2.1.0
     - 2.2.0
-    recommended: 2.0.7
+    recommended: 2.1.0
     deprecated: []
   dependencies: []
   resolvedDependencies: []
@@ -150,29 +226,51 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638218079810000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.0/manual/index.html
+  datePublishedTicks: 638301329890000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.1/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-    revision: 7f68049e8cae5b51ad0d17cc01b8c6e802bf3866
+    revision: 179e96acc2f95fcb9dcc91b5fb2ee5f3e85d48aa
     path: 
   unityLifecycle:
-    version: 2.0.5
+    version: 2.1.0
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.feature.development@1.0.1
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"Unity Version Control is now available as part of the
+    Version Control Package! You can enable Unity Version Control via Window > Unity
+    Version Control to get started!\nIf you have previously used the Unity Asset
+    Store Plastic SCM plug-in, you can now simply use this package. Make sure you
+    delete the plug-in from your project.\nRemoving a previously added Plastic SCM
+    Asset Store Plug-In:\n\n- Select the PlasticSCM folder in the Assets\\Plugins
+    folder on the Project tab, then click Edit > Delete\n- Close the Unity Editor
+    and open your project again. You will find the Plastic SCM menu item in the Window
+    menu.\n\nChanged:\n\n- Moved the button to invite users to the organization from
+    the submenu to the toolbar.\n- Show a message with a link to invite users to
+    the organization after the first checkin.\n- Don''t write cloudProjectId in ProjectSettings.asset
+    anymore since it should only be managed by Services.\n- Added command to support
+    Hub creating a new project, and connecting a project to Unity Version Control.\n\nFixed:\n\n-
+    Fixed Add to ignored/hidden changes list from the Project window creating a negative
+    rule.\n- Fixed Switch to changeset not working on Gluon partial workspace."}'
+  assetStore:
+    productId: 
+- packageId: com.unity.feature.development@1.0.2
   testable: 0
   isDirectDependency: 1
-  version: 1.0.1
+  version: 1.0.2
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.feature.development@1.0.1
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.feature.development@1.0.2
   assetPath: Packages/com.unity.feature.development
   name: com.unity.feature.development
   displayName: Engineering
@@ -190,17 +288,15 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 1.0.1
+    - 1.0.2
     compatible:
-    - 1.0.1
-    recommended: 1.0.1
+    - 1.0.2
+    recommended: 1.0.2
     deprecated: []
   dependencies:
   - name: com.unity.ide.visualstudio
     version: default
   - name: com.unity.ide.rider
-    version: default
-  - name: com.unity.ide.vscode
     version: default
   - name: com.unity.editorcoroutines
     version: default
@@ -212,19 +308,17 @@ m_ResolvedPackages:
     version: default
   resolvedDependencies:
   - name: com.unity.ide.visualstudio
-    version: 2.0.18
+    version: 2.0.21
   - name: com.unity.test-framework
-    version: 1.1.33
+    version: 1.3.9
   - name: com.unity.ext.nunit
-    version: 1.0.6
+    version: 2.0.3
   - name: com.unity.modules.imgui
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   - name: com.unity.ide.rider
-    version: 3.0.24
-  - name: com.unity.ide.vscode
-    version: 1.2.5
+    version: 3.0.25
   - name: com.unity.editorcoroutines
     version: 1.0.0
   - name: com.unity.performance.profile-analyzer
@@ -243,6 +337,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -253,19 +349,25 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 1.0.1
+    version: 1.0.2
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.ide.rider@3.0.24
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"quickstart":"https://docs.unity3d.com/2021.2/Documentation/Manual/DeveloperToolsFeature.html"}'
+  assetStore:
+    productId: 
+- packageId: com.unity.ide.rider@3.0.25
   testable: 0
   isDirectDependency: 1
-  version: 3.0.24
+  version: 3.0.25
   source: 1
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.ide.rider@3.0.24
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.ide.rider@3.0.25
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -323,7 +425,6 @@ m_ResolvedPackages:
     - 3.0.25
     - 3.0.26
     compatible:
-    - 3.0.24
     - 3.0.25
     - 3.0.26
     recommended: 3.0.26
@@ -333,7 +434,7 @@ m_ResolvedPackages:
     version: 1.0.6
   resolvedDependencies:
   - name: com.unity.ext.nunit
-    version: 1.0.6
+    version: 2.0.3
   keywords: []
   registry:
     id: main
@@ -344,29 +445,38 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638221653400000000
+  datePublishedTicks: 638300315270000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.rider@3.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
-    revision: f5decc642e3618ce1c6827d47318260e61d64714
+    revision: e103b4771a884e656407e1b7219e5e3c20222552
     path: 
   unityLifecycle:
-    version: 3.0.24
+    version: 3.0.25
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.ide.visualstudio@2.0.18
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"- unification of functionality to  search JetBrains
+    installations and open solution and file in Rider"}'
+  assetStore:
+    productId: 
+- packageId: com.unity.ide.visualstudio@2.0.21
   testable: 0
   isDirectDependency: 1
-  version: 2.0.18
+  version: 2.0.21
   source: 1
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.ide.visualstudio@2.0.18
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.ide.visualstudio@2.0.21
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -375,7 +485,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: asset
+  type: assets
   description: Code editor integration for supporting Visual Studio as code editor
     for unity. Adds support for generating csproj files for intellisense purposes,
     auto discovery of installations, etc.
@@ -408,8 +518,6 @@ m_ResolvedPackages:
     - 2.0.21
     - 2.0.22
     compatible:
-    - 2.0.18
-    - 2.0.20
     - 2.0.21
     - 2.0.22
     recommended: 2.0.22
@@ -419,9 +527,9 @@ m_ResolvedPackages:
     version: 1.1.9
   resolvedDependencies:
   - name: com.unity.test-framework
-    version: 1.1.33
+    version: 1.3.9
   - name: com.unity.ext.nunit
-    version: 1.0.6
+    version: 2.0.3
   - name: com.unity.modules.imgui
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
@@ -436,29 +544,44 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638173205920000000
+  datePublishedTicks: 638300315250000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.visualstudio@2.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
-    revision: 9d3c07127cbe1916b8abbfd18f71fb8d9df8008c
+    revision: eb2b500b99f6429d3d9dcb8acbcbd366dfbb42be
     path: 
   unityLifecycle:
-    version: 2.0.18
+    version: 2.0.21
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"Integration:\n\n- Only disable the legacy `com.unity.ide.vscode`
+    package going forward.\n- Fix json parsing issues with specific non-UTF code
+    pages.\n\nProject generation:\n\n- Target `netstandard2.1` instead of `netstandard2.0`.\n-
+    Set `defaultSolution` in `settings.json`.\n- Remove `files.exclude` entries for
+    root `csproj` and `sln` files in `settings.json` when needed.\n- Add `vstuc`
+    launch configuration to `launch.json` when needed.\n- Add `visualstudiotoolsforunity.vstuc`
+    entry to `extensions.json` when needed.\n- You can prevent the package from patching
+    those configuration files by creating a `.vscode/.vstupatchdisable` file."}'
+  assetStore:
+    productId: 
 - packageId: com.unity.ide.vscode@1.2.5
   testable: 0
   isDirectDependency: 1
   version: 1.2.5
   source: 1
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.ide.vscode@1.2.5
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.ide.vscode@1.2.5
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -489,8 +612,20 @@ m_ResolvedPackages:
     - 1.2.4
     - 1.2.5
     compatible:
+    - 1.0.2
+    - 1.0.3
+    - 1.0.7
+    - 1.1.0
+    - 1.1.2
+    - 1.1.3
+    - 1.1.4
+    - 1.2.0
+    - 1.2.1
+    - 1.2.2
+    - 1.2.3
+    - 1.2.4
     - 1.2.5
-    recommended: 1.2.5
+    recommended: 
     deprecated: []
   dependencies: []
   resolvedDependencies: []
@@ -504,6 +639,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 637800255360000000
   documentationUrl: 
@@ -514,19 +651,26 @@ m_ResolvedPackages:
     revision: b0740c80bfc2440527c317109f7c3d9100132722
     path: 
   unityLifecycle:
-    version: 1.2.5
+    version: 
     nextVersion: 
     recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
+    isDeprecated: 1
+    deprecationMessage: Visual Studio Code package is not supported anymore. You
+      can continue to use it, but we won't provide any update anymore.
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.postprocessing@3.2.2
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
+- packageId: com.unity.postprocessing@3.3.0
   testable: 0
   isDirectDependency: 1
-  version: 3.2.2
+  version: 3.3.0
   source: 1
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.postprocessing@3.2.2
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.postprocessing@3.3.0
   assetPath: Packages/com.unity.postprocessing
   name: com.unity.postprocessing
   displayName: Post Processing
@@ -581,9 +725,8 @@ m_ResolvedPackages:
     - 3.2.2
     - 3.3.0
     compatible:
-    - 3.2.2
     - 3.3.0
-    recommended: 3.2.2
+    recommended: 3.3.0
     deprecated: []
   dependencies:
   - name: com.unity.modules.physics
@@ -601,29 +744,40 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637855259850000000
-  documentationUrl: 
+  datePublishedTicks: 638197390240000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.postprocessing@3.3/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.com/Unity-Technologies/Graphics.git
-    revision: 815ce78463c7d3006fa97cd6e8898d91cb9c3ebf
+    revision: 28cd9b8713470614fe9a99cd6096069f2631a903
     path: 
   unityLifecycle:
-    version: 3.2.2
+    version: 3.3.0
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.test-framework@1.1.33
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Fixed\n- Fixed some post effects not scaling correctly
+    when dynamic resolution is enabled on a camera''s target texture (case 1166603)\n-
+    Fixed obsolete API call GetScriptingDefineSymbolsForGroup\n- Remove support for
+    OpenGL ES 2.0 in Unity 2023.1 or newer"}'
+  assetStore:
+    productId: 
+- packageId: com.unity.test-framework@1.3.9
   testable: 0
   isDirectDependency: 1
-  version: 1.1.33
+  version: 1.3.9
   source: 1
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.test-framework@1.1.33
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.test-framework@1.3.9
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -632,7 +786,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: Unity Test Framework
-  type: asset
+  type: assets
   description: Test framework for running Edit mode and Play mode tests in Unity.
   status: 0
   errors: []
@@ -686,32 +840,23 @@ m_ResolvedPackages:
     - 2.0.1-pre.12
     - 2.0.1-pre.18
     compatible:
-    - 1.1.33
-    - 1.3.0
-    - 1.3.1
-    - 1.3.2
-    - 1.3.3
-    - 1.3.4
-    - 1.3.5
-    - 1.3.7
-    - 1.3.8
     - 1.3.9
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
     - 2.0.1-pre.18
-    recommended: 1.1.33
+    recommended: 1.3.9
     deprecated: []
   dependencies:
   - name: com.unity.ext.nunit
-    version: 1.0.6
+    version: 2.0.3
   - name: com.unity.modules.imgui
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   resolvedDependencies:
   - name: com.unity.ext.nunit
-    version: 1.0.6
+    version: 2.0.3
   - name: com.unity.modules.imgui
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
@@ -728,29 +873,43 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637938212700000000
-  documentationUrl: 
+  datePublishedTicks: 638283169810000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.test-framework@1.3/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.com/Unity-Technologies/com.unity.test-framework.git
-    revision: 34a4d423d64926635eb36d3bb86276179cc186e1
+    revision: 5c8a1448cee4d7607be0d60dceb66703b0cfe016
     path: 
   unityLifecycle:
-    version: 1.1.33
+    version: 1.3.9
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"- By using the editor command line new argument `-randomOrderSeed
+    x` you can run the tests in a randomized order, where x is an integer different
+    from 0. If a new test is added in the project the random order passing the same
+    seed will be kept, and the new test will be placed in the random list accordigly.\n-
+    Fix for WebGL platform target to close the browser tab when the run is completed.
+    \n- Added TestFileReferences.json to be generated on build step of the player,
+    so can be consumed later by Test runners to enrich data for run part."}'
+  assetStore:
+    productId: 
 - packageId: com.unity.textmeshpro@3.0.6
   testable: 0
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.textmeshpro@3.0.6
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -909,6 +1068,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 637547111200000000
   documentationUrl: 
@@ -926,12 +1087,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.timeline@1.7.5
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
+- packageId: com.unity.timeline@1.8.2
   testable: 0
   isDirectDependency: 1
-  version: 1.7.5
+  version: 1.8.2
   source: 1
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.timeline@1.7.5
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.timeline@1.8.2
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -940,7 +1107,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: assets
+  type: asset
   description: Use Unity Timeline to create cinematic content, game-play sequences,
     audio sequences, and complex particle effects.
   status: 0
@@ -1033,16 +1200,12 @@ m_ResolvedPackages:
     - 1.8.5
     - 1.8.6
     compatible:
-    - 1.7.5
-    - 1.7.6
-    - 1.8.0
-    - 1.8.1
     - 1.8.2
     - 1.8.3
     - 1.8.4
     - 1.8.5
     - 1.8.6
-    recommended: 1.7.6
+    recommended: 1.8.6
     deprecated: []
   dependencies:
   - name: com.unity.modules.director
@@ -1077,29 +1240,39 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638229649600000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.timeline@1.7/manual/index.html
+  datePublishedTicks: 638143790900000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.timeline@1.8/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
-    revision: fdb1ca9a2c2a131e0ff9cb257b2eae3b53337b3a
+    revision: a60d9f471eee76056ecbc8c94f5bec263478a9c0
     path: 
   unityLifecycle:
-    version: 1.7.5
+    version: 1.8.2
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Fixed\n\n- Fixed issue where previewing the Timeline
+    would create prefab property modifications\n- Fixed issue where `ClipEditor.OnClipChanged`
+    was not invoked when changing the object assigned to a `ExposedReference<UnityEngine.Object>`."}'
+  assetStore:
+    productId: 
 - packageId: com.unity.ugui@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.ugui@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1148,6 +1321,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1165,12 +1340,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.visualscripting@1.8.0
   testable: 0
   isDirectDependency: 1
   version: 1.8.0
   source: 1
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.visualscripting@1.8.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.visualscripting@1.8.0
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1246,6 +1427,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638060044680000000
   documentationUrl: 
@@ -1263,12 +1446,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.ai@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.ai@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1301,6 +1490,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1318,12 +1509,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.androidjni@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1355,6 +1552,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1372,12 +1571,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.animation@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.animation@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1410,6 +1615,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1427,12 +1634,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.assetbundle@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1465,6 +1678,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1482,12 +1697,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.audio@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.audio@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -1520,6 +1741,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1537,12 +1760,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.cloth@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.cloth@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -1579,6 +1808,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1596,12 +1827,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.director@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.director@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -1642,6 +1879,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1659,12 +1898,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.imageconversion@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -1675,8 +1920,7 @@ m_ResolvedPackages:
   category: 
   type: module
   description: 'The ImageConversion module implements the ImageConversion class which
-    provides helper methods to convert images from and to PNG, JPEG or EXR formats.
-    Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.ImageConversionModule.html'
+    provides helper methods for converting image data. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.ImageConversionModule.html'
   status: 0
   errors: []
   versions:
@@ -1698,6 +1942,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1715,12 +1961,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.imgui@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.imgui@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -1753,6 +2005,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1770,12 +2024,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.jsonserialize@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -1808,6 +2068,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1825,12 +2087,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.particlesystem@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -1863,6 +2131,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1880,12 +2150,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.physics@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.physics@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -1918,6 +2194,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1935,12 +2213,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.physics2d@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -1973,6 +2257,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1990,12 +2276,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.screencapture@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -2032,6 +2324,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2049,12 +2343,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.terrain@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.terrain@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -2087,6 +2387,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2104,12 +2406,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.terrainphysics@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -2150,6 +2458,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2167,12 +2477,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.tilemap@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -2208,6 +2524,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2225,12 +2543,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.ui@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.ui@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -2263,6 +2587,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2280,12 +2606,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.uielements@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.uielements@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -2330,6 +2662,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2347,12 +2681,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.umbra@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.umbra@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -2385,6 +2725,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2402,12 +2744,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.unityanalytics@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -2448,6 +2796,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2465,12 +2815,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.unitywebrequest@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -2503,6 +2859,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2520,12 +2878,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.unitywebrequestassetbundle@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -2566,6 +2930,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2583,12 +2949,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.unitywebrequestaudio@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -2629,6 +3001,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2646,12 +3020,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.unitywebrequesttexture@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -2692,6 +3072,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2709,12 +3091,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.unitywebrequestwww@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -2771,6 +3159,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2788,12 +3178,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.vehicles@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -2830,6 +3226,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2847,12 +3245,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.video@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.video@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -2897,6 +3301,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2914,12 +3320,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.vr@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.vr@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -2966,6 +3378,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2983,12 +3397,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.wind@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.wind@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -3021,6 +3441,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -3038,12 +3460,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.xr@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.xr@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -3088,6 +3516,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -3105,12 +3535,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.subsystems@1.0.0
   testable: 0
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -3147,6 +3583,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -3164,12 +3602,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.ext.nunit@1.0.6
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
+- packageId: com.unity.ext.nunit@2.0.3
   testable: 0
   isDirectDependency: 0
-  version: 1.0.6
+  version: 2.0.3
   source: 1
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.ext.nunit@1.0.6
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.ext.nunit@2.0.3
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -3179,8 +3623,8 @@ m_ResolvedPackages:
     url: 
   category: Libraries
   type: asset
-  description: Custom version of the nunit package build to work with Unity. Used
-    by the Unity Test Framework.
+  description: A custom version of NUnit used by Unity Test Framework. Based on NUnit
+    version 3.5 and works with all platforms, il2cpp and Mono AOT.
   status: 0
   errors: []
   versions:
@@ -3196,12 +3640,10 @@ m_ResolvedPackages:
     - 2.0.4
     - 2.0.5
     compatible:
-    - 1.0.6
-    - 2.0.2
     - 2.0.3
     - 2.0.4
     - 2.0.5
-    recommended: 1.0.6
+    recommended: 2.0.5
     deprecated: []
   dependencies: []
   resolvedDependencies: []
@@ -3218,29 +3660,39 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637429759280000000
+  datePublishedTicks: 637920402200000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git
-    revision: 29ea4d6504a5f58fb3a6934db839aa80ae6d9d88
+    revision: 2e41147762790f2a221103bff840a0138ca01b57
     path: 
   unityLifecycle:
-    version: 1.0.6
+    version: 2.0.3
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"- Added unique test ID for repeated tests\r\n- Added
+    ContainKey and ContainValue constaints for dictionaries\r\n- Fixed unexpected
+    null exception when using EmptyConstraint with a null object"}'
+  assetStore:
+    productId: 
 - packageId: com.unity.editorcoroutines@1.0.0
   testable: 0
   isDirectDependency: 0
   version: 1.0.0
   source: 1
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.editorcoroutines@1.0.0
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.editorcoroutines@1.0.0
   assetPath: Packages/com.unity.editorcoroutines
   name: com.unity.editorcoroutines
   displayName: Editor Coroutines
@@ -3283,6 +3735,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 637232611380000000
   documentationUrl: 
@@ -3300,12 +3754,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.performance.profile-analyzer@1.2.2
   testable: 0
   isDirectDependency: 0
   version: 1.2.2
   source: 1
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.performance.profile-analyzer@1.2.2
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.performance.profile-analyzer@1.2.2
   assetPath: Packages/com.unity.performance.profile-analyzer
   name: com.unity.performance.profile-analyzer
   displayName: Profile Analyzer
@@ -3354,6 +3814,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638108624620000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.performance.profile-analyzer@1.2/manual/index.html
@@ -3371,12 +3833,19 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Fixed\n\n* Fixed exception thrown when removing
+    marker."}'
+  assetStore:
+    productId: 
 - packageId: com.unity.testtools.codecoverage@1.2.4
   testable: 0
   isDirectDependency: 0
   version: 1.2.4
   source: 1
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.testtools.codecoverage@1.2.4
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.testtools.codecoverage@1.2.4
   assetPath: Packages/com.unity.testtools.codecoverage
   name: com.unity.testtools.codecoverage
   displayName: Code Coverage
@@ -3435,9 +3904,9 @@ m_ResolvedPackages:
     version: 1.0.1
   resolvedDependencies:
   - name: com.unity.test-framework
-    version: 1.1.33
+    version: 1.3.9
   - name: com.unity.ext.nunit
-    version: 1.0.6
+    version: 2.0.3
   - name: com.unity.modules.imgui
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
@@ -3458,6 +3927,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638212235100000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.testtools.codecoverage@1.2/manual/index.html
@@ -3475,12 +3946,23 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Fixes\n- Fixed failing to gather code coverage
+    for normal methods in generic classes (case [COV-27](https://issuetracker.unity3d.com/issues/non-generic-methods-in-generic-classes-always-show-no-coverage)).\n-
+    Documentation: Corrected *Settings.json* path in `useProjectSettings` section
+    in *-coverageOptions* (case [COV-26](https://issuetracker.unity3d.com/issues/documentation-for-useprojectsettings-references-incorrect-settings-dot-json-path)).\n-
+    Make sure *Auto Generate Report* defaults to true when running from the command
+    line (case [COV-25](https://issuetracker.unity3d.com/issues/useprojectsettings-does-not-generate-report-until-auto-generate-report-is-toggled-off-and-on-again))."}'
+  assetStore:
+    productId: 
 - packageId: com.unity.settings-manager@2.0.1
   testable: 0
   isDirectDependency: 0
   version: 2.0.1
   source: 1
-  resolvedPath: D:\Product\major\2023-2024\Game Advanced\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.settings-manager@2.0.1
+  resolvedPath: C:\Users\hoaip\Downloads\Horror-Game-Unity\Horror-Game-Unity\Lesson1\Library\PackageCache\com.unity.settings-manager@2.0.1
   assetPath: Packages/com.unity.settings-manager
   name: com.unity.settings-manager
   displayName: Settings Manager
@@ -3520,6 +4002,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 637744099390000000
   documentationUrl: 
@@ -3537,3 +4021,9 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
